@@ -23,10 +23,10 @@
     </nav>
     </br>
     </br>
-    <a id ="Faby"> Faby's Shoe Boutique Inventory </a> 
+    <a id ="Faby"> Faby's Shoe Boutique Inventory</a> 
     </br>
     </br>
-    <img src="/Final_Project/shoes.png"/>
+    <img src="/Final_Project/shoe2.png"/>
     </header>
     </body>
     </html>
