@@ -80,7 +80,7 @@
         <a href="index.php">Home</a>
         <a href="guest.php">Guest</a>
         <a href="admin.php">Admin Log In</a>
-        <a href="new_m.php">New Admin</a>
+        <a href="new_m.php">Subscribe</a>
     </nav>
     
 
