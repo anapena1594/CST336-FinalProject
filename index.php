@@ -26,7 +26,7 @@
     <a id ="Faby"> Faby's Shoe Boutique Inventory </a> 
     </br>
     </br>
-    <img src="/Final_Project/women_shoes_PNG7451.png"/>
+    <img src="/Final_Project/shoes.png"/>
     </header>
     </body>
     </html>
